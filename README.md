@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 - :seedling: Learning about the integration of front end and backend thru the MERN stack.
 
-- :zap: Check out my other projects on my [portfolio site](https://sarahhlandis.netlify.app).
+- :zap: Check out my other projects on my [portfolio site](https://sarahsc.dev/).
 
 - :mailbox: Send me an [email](mailto:sarahlandis95@gmail.com) or connect with me here
 [![Linkedin Badge](https://img.shields.io/badge/-sarahhlandis-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sarahhlandis/)
