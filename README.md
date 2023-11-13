@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 </div>
 
 ### :woman_technologist: About Me :
-- :telescope: Currently working on a MERN application! Stay tuned....
+- :telescope: Recently finished up a site rebuild with React and Javascript. Check it out [here](https://www.replikaxplore.com/)!
 
-- :seedling: Learning about the integration of front end and backend thru the MERN stack.
+- :seedling: Learning a bit about TypeScript and SwiftUI through code, documentation and applications. 
 
-- :zap: Check out my other projects on my [portfolio site](https://sarahsc.dev/).
+- :zap: Dig into some of my other projects on my [portfolio site](https://sarahsc.dev/).
 
 - :mailbox: Send me an [email](mailto:sarahlandis95@gmail.com) or connect with me here
 [![Linkedin Badge](https://img.shields.io/badge/-sarahhlandis-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sarahhlandis/)
