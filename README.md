@@ -31,13 +31,14 @@ Here are some ideas to get you started:
     Hi there, I'm Sarah!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  <h3>A <a href="https://coderacademy.edu.au/">recent graduate</a> and full stack developer with a passion for front-end work. </h3>
-</div>
+<!--   <h3>A <a href="https://coderacademy.edu.au/">recent graduate</a> and full stack developer with a passion for front-end work. </h3> -->
+  <h3>I'm a full-stack web developer with a passion for conceptualizing designs and bringing them to life.</h3>
+  </div>
 
 ### :woman_technologist: About Me :
-- :telescope: Recently finished up a site rebuild with React and Javascript. Check it out [here](https://www.replikaxplore.com/)!
+- :telescope: Recently finished up a site rebuild with React and Javascript. Check it out [here](https://www.replikaxplore.com/)! Currently working on a site rebuild and web app integration for a payment processing app!
 
-- :seedling: Learning a bit about TypeScript and SwiftUI through code, documentation and applications. 
+- :seedling: Learning a bit more about mobile apps thru documentation, applications, and development. 
 
 - :zap: Dig into some of my other projects on my [portfolio site](https://sarahsc.dev/).
 
