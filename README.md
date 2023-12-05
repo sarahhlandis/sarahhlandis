@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   <h3>I'm a full-stack web developer with a passion for conceptualizing designs and bringing them to life.</h3>
   </div>
 
-### :woman_technologist: About Me :
+###:woman_technologist: About Me :
 - :telescope: Recently finished up a site rebuild with React and Javascript. Check it out [here](https://www.replikaxplore.com/)! Currently working on a site rebuild and web app integration for a payment processing app!
 
 - :seedling: Learning a bit more about mobile apps thru documentation, applications, and development. 
