@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   <h3>I'm a full-stack web developer with a passion for conceptualizing designs and bringing them to life.</h3>
   </div>
 
-###:woman_technologist: About Me :
+### 👩🏽‍💻 About Me :
 - :telescope: Recently finished up a site rebuild with React and Javascript. Check it out [here](https://www.replikaxplore.com/)! Currently working on a site rebuild and web app integration for a payment processing app!
 
 - :seedling: Learning a bit more about mobile apps thru documentation, applications, and development. 
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 - :mailbox: Send me an [email](mailto:sarahlandis95@gmail.com) or connect with me here
 [![Linkedin Badge](https://img.shields.io/badge/-sarahhlandis-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sarahhlandis/)
 ---
-### :hammer_and_wrench: Languages and Tools :
+### 🛠 Languages and Tools :
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 ---
 
 
-### :fire: My Stats :
+### 🔥 My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sarahhlandis&theme=dark&background=000000)](https://git.io/streak-stats)
 <br>
 <br>
